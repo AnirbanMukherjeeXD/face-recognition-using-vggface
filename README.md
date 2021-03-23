@@ -2,4 +2,4 @@
 Recognize faces using VGG-Face
 
 ### Sample outputs:
-<img src='custom_faces_outputs.png'>
+<img src='custom-faces/custom_faces_outputs.png'>
