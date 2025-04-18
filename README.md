@@ -8,7 +8,7 @@ This repository implements face recognition using the **VGG-Face** model to extr
 
 ## 📁 Dataset
 
-- Custom dataset: [PIN's Face Recognition Dataset](https://www.kaggle.com/datasets/hereisburak/pins-face-recognition)
+- [PIN's Face Recognition Dataset](https://www.kaggle.com/datasets/hereisburak/pins-face-recognition)
 - The dataset contains images of celebrities used for training the model to recognize faces.
 
 
