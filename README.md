@@ -40,7 +40,7 @@ This repository implements face recognition using the **VGG-Face** model to extr
     chmod 600 ~/.kaggle/kaggle.json
     kaggle datasets download -d hereisburak/pins-face-recognition --unzip
     ```
-4. Run the provided notebook to:
+4. Run the provided notebook `face_recognition_using_vggface.ipynb` to:
     - Use VGG-Face for face embedding extraction.
     - Apply PCA for dimensionality reduction.
     - Train the SVC model and perform face recognition.
